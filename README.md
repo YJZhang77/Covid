@@ -1,7 +1,12 @@
 # Covid
-Try to build some project with the Covid Data
-A line I wrote on my local computer  
+Covid-19 related project for MA.
 
-change it again.
+This project include the following Datasets:
 
-Do it again
+1. Wastewater by counties or Southern and Northern
+
+2. Covid New Cases for counties
+
+3. Death cases for counties
+
+4. BU data (may not represent here)
